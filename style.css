@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background-image: url(photo-1477959858617-67f85cf4f1df.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1{
+ text-align: center;
+    width: 30vw;
+ height: 20vh;
+margin-left: 37%;
+ margin-top: 20%;
+ background-color:rgba(255, 255, 255, 100)
+}
